@@ -32,6 +32,19 @@ On minimal or hardened Linux systems (e.g. AWS EC2, Docker containers, CTF envir
 
 ---
 
+
+## Installation
+
+No installation needed. Just clone and run:
+
+```bash
+git clone https://github.com/andry968/wtmp_reader.git
+cd wtmp_reader
+python3 wtmp_reader.py --help
+```
+
+---
+
 ## Requirements
 
 ```
@@ -116,18 +129,6 @@ When exporting with `-o output.csv`, columns are:
 
 ```
 type, pid, line, id, user, host, term, exit, session, sec, usec, addr
-```
-
----
-
-## Installation
-
-No installation needed. Just clone and run:
-
-```bash
-git clone https://github.com/andry968/wtmp_reader.git
-cd wtmp_reader
-python3 wtmp_reader.py --help
 ```
 
 ---
