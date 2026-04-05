@@ -125,8 +125,8 @@ type, pid, line, id, user, host, term, exit, session, sec, usec, addr
 No installation needed. Just clone and run:
 
 ```bash
-git clone https://github.com/yourusername/wtmp-reader.git
-cd wtmp-reader
+git clone https://github.com/andry968/wtmp_reader.git
+cd wtmp_reader
 python3 wtmp_reader.py --help
 ```
 
