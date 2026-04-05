@@ -5,7 +5,7 @@
 ![Category](https://img.shields.io/badge/Category-DFIR-red?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey?style=flat-square&logo=linux)
 
-A lightweight Python tool for parsing binary `wtmp`/`btmp` log files — built for environments where `last` or `utmpdump` is unavailable.
+A lightweight Python tool for parsing binary `wtmp`/`btmp` log files. Built for environments where `last` or `utmpdump` is unavailable.
 
 Useful for **Digital Forensics & Incident Response (DFIR)**, **Blue Team** investigations, and **SOC** log analysis.
 
@@ -13,7 +13,7 @@ Useful for **Digital Forensics & Incident Response (DFIR)**, **Blue Team** inves
 
 ## Why?
 
-On minimal or hardened Linux systems (e.g. AWS EC2, Docker containers, CTF environments), tools like `last` and `utmpdump` are often not installed. `wtmp` is a binary file — you can't just `cat` it.
+On minimal or hardened Linux systems (e.g. AWS EC2, Docker containers, CTF environments), tools like `last` and `utmpdump` are often not installed. `wtmp` is a binary file so you can't just `cat` it.
 
 `wtmp-reader` solves that with zero dependencies, just Python 3.
 
@@ -27,8 +27,8 @@ On minimal or hardened Linux systems (e.g. AWS EC2, Docker containers, CTF envir
 - Export to `.csv` or `.txt` (`-o`)
 - Filter by record type (`-f`)
 - Summary statistics (`--summary`)
-- Works on `wtmp` and `btmp` (failed logins)
-- No external dependencies — pure Python 3 standard library
+- Works on `wtmp` and `btmp`
+- No external dependencies pure Python 3 standard library
 
 ---
 
@@ -143,7 +143,7 @@ python3 wtmp_reader.py --help
 
 ## License
 
-MIT License — see [LICENSE](LICENSE) for details.
+MIT License - see [LICENSE](LICENSE) for details.
 
 ---
 
