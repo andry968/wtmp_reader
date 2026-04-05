@@ -11,6 +11,11 @@ Useful for **Digital Forensics & Incident Response (DFIR)**, **Blue Team** inves
 
 ---
 
+## Preview
+<img width="1341" height="725" alt="Screenshot From 2026-04-05 15-06-26" src="https://github.com/user-attachments/assets/b7d8c059-8f08-4c22-abd9-f9a5dfec9be1" />
+
+---
+
 ## Why?
 
 On minimal or hardened Linux systems (e.g. AWS EC2, Docker containers, CTF environments), tools like `last` and `utmpdump` are often not installed. `wtmp` is a binary file so you can't just `cat` it.
