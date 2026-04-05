@@ -1,4 +1,4 @@
-# wtmp-reader
+# wtmp_reader
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
