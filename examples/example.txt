@@ -1,0 +1,23 @@
+wtmp_reader output
+================================================================================
+[USER] pid=1836 line=seat0 id= user=ipan host=login screen term=0 exit=0 session=0 time=2026/04/03 10:30:34 usec=390612 addr=0.0.0.0
+[USER] pid=1836 line=tty2 id= user=ipan host=tty2 term=0 exit=0 session=0 time=2026/04/03 10:30:34 usec=412069 addr=0.0.0.0
+[DEAD] pid=1836 line=tty2 id= user=- host=tty2 term=0 exit=0 session=0 time=2026/04/03 10:45:35 usec=923720 addr=0.0.0.0
+[USER] pid=1794 line=seat0 id= user=ipan host=login screen term=0 exit=0 session=0 time=2026/04/03 11:31:40 usec=958274 addr=0.0.0.0
+[USER] pid=1794 line=tty2 id= user=ipan host=tty2 term=0 exit=0 session=0 time=2026/04/03 11:31:40 usec=979705 addr=0.0.0.0
+[USER] pid=1875 line=seat0 id= user=ipan host=login screen term=0 exit=0 session=0 time=2026/04/04 04:37:13 usec=851002 addr=0.0.0.0
+[USER] pid=1875 line=tty2 id= user=ipan host=tty2 term=0 exit=0 session=0 time=2026/04/04 04:37:13 usec=873828 addr=0.0.0.0
+[USER] pid=1812 line=seat0 id= user=ipan host=login screen term=0 exit=0 session=0 time=2026/04/04 10:11:51 usec=925449 addr=0.0.0.0
+[USER] pid=1812 line=tty2 id= user=ipan host=tty2 term=0 exit=0 session=0 time=2026/04/04 10:11:51 usec=944563 addr=0.0.0.0
+[USER] pid=1807 line=seat0 id= user=ipan host=login screen term=0 exit=0 session=0 time=2026/04/04 11:32:06 usec=84449 addr=0.0.0.0
+[USER] pid=1807 line=tty2 id= user=ipan host=tty2 term=0 exit=0 session=0 time=2026/04/04 11:32:06 usec=107885 addr=0.0.0.0
+[DEAD] pid=1807 line=tty2 id= user=- host=tty2 term=0 exit=0 session=0 time=2026/04/04 11:46:13 usec=543406 addr=0.0.0.0
+[USER] pid=5611 line=seat0 id= user=ipan host=login screen term=0 exit=0 session=0 time=2026/04/04 11:46:21 usec=274419 addr=0.0.0.0
+[USER] pid=5611 line=tty2 id= user=ipan host=tty2 term=0 exit=0 session=0 time=2026/04/04 11:46:21 usec=296047 addr=0.0.0.0
+[USER] pid=1779 line=seat0 id= user=ipan host=login screen term=0 exit=0 session=0 time=2026/04/04 13:10:20 usec=232571 addr=0.0.0.0
+[USER] pid=1779 line=tty2 id= user=ipan host=tty2 term=0 exit=0 session=0 time=2026/04/04 13:10:20 usec=256302 addr=0.0.0.0
+[USER] pid=1795 line=seat0 id= user=ipan host=login screen term=0 exit=0 session=0 time=2026/04/04 15:11:07 usec=985304 addr=0.0.0.0
+[USER] pid=1795 line=tty2 id= user=ipan host=tty2 term=0 exit=0 session=0 time=2026/04/04 15:11:08 usec=3238 addr=0.0.0.0
+[LOGIN] pid=12428 line=tty3 id=3 user=LOGIN host=- term=0 exit=0 session=12428 time=2026/04/04 16:51:27 usec=0 addr=0.0.0.0
+[USER] pid=1854 line=seat0 id= user=ipan host=login screen term=0 exit=0 session=0 time=2026/04/05 06:35:52 usec=321383 addr=0.0.0.0
+[USER] pid=1854 line=tty2 id= user=ipan host=tty2 term=0 exit=0 session=0 time=2026/04/05 06:35:52 usec=341783 addr=0.0.0.0
