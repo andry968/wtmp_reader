@@ -110,7 +110,7 @@ def type_color(ut_type: int) -> str:
 def print_banner():
     print(f"""
 {C.CYAN}{C.BOLD}╔══════════════════════════════════════════════════════╗
-║           wtmp_reader  |  binary log parser          ║
+║                  DR. WTMP READER                     ║
 ║         for forensics & incident response            ║
 ╚══════════════════════════════════════════════════════╝{C.RESET}""")
 
