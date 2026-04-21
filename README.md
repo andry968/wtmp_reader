@@ -12,7 +12,8 @@ Useful for **Digital Forensics & Incident Response (DFIR)**, **Blue Team** inves
 ---
 
 ## Preview
-<img width="1341" height="725" alt="Screenshot From 2026-04-05 15-06-26" src="https://github.com/user-attachments/assets/b7d8c059-8f08-4c22-abd9-f9a5dfec9be1" />
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/cca380c6-0f84-4070-a28e-8cee8c2c48de" />
 
 ---
 
@@ -140,16 +141,16 @@ type, pid, line, id, user, host, term, exit, session, sec, usec, addr
 
 ## Use Cases
 
-- **DFIR investigations** — reconstruct login history from binary logs
-- **CTF challenges** — parse wtmp artifacts without relying on system tools
-- **SOC analysis** — identify suspicious IPs, unusual login times, or privilege escalation patterns
-- **Threat hunting** — correlate login sessions with other log sources
+- **DFIR investigations**: reconstruct login history from binary logs
+- **CTF challenges**: parse wtmp artifacts without relying on system tools
+- **SOC analysis**: identify suspicious IPs, unusual login times, or privilege escalation patterns
+- **Threat hunting**: correlate login sessions with other log sources
 
 ---
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) for details.
+MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
